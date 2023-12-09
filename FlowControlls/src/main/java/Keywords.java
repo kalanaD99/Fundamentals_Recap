@@ -34,7 +34,7 @@ public class Keywords {
 
 
     }
-    static void print(){
+    static  void print(){
         System.out.println("print start");
         for (int i = 0; i < 10; i++) {
             System.out.println(i);
